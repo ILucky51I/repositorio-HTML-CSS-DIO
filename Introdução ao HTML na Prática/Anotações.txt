@@ -1,0 +1,31 @@
+Tags aprendida neste módulo:
+
+<i> : Deixa o texto itálico.
+
+<strong>: Deixa o texto em negrito.
+
+<img>: Para adicionar uma imagem.
+
+<p>: Adiciona um parágrafo.
+
+<h1> até <h6>: Os elementos HTML <h1>–<h6> representam seis níveis de título de seção. <h1> é o nível de seção mais alto e <h6> é o mais baixo. 
+
+<blockquote>: Indica que o texto incluído é uma longa citação.
+
+<u>: Deixa o texto sublinhado.
+
+<mark>: Representa um trecho de destaque em um texto, marca o texto igual marcador.
+
+<sup>: Exibe o texto como sobrescrito.
+
+<ol>: Representa uma lista ordenada de itens.
+
+<li>: É usado para representar um item em uma lista. Ele deve estar contido em um elemento pai: uma lista ordenada (ol) ou uma lista não ordenada (ul). 
+
+<ul>: Representa uma lista não ordenada de itens.
+
+<a>: O elemento Âncora, cria um hiperlink para páginas da Web. Atributo title: Aparece uma descrição ao passar o mouse em cima do link.
+
+<hr>: Exibe uma linha separando o conteúdo.
+
+<small>: Define um texto menor (como direitos autorais e outros comentários secundários). 
